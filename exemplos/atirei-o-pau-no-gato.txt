@@ -1,0 +1,47 @@
+# Atirei o Pau no Gato
+# Cantiga infantil tradicional brasileira. Domínio público.
+# Versão em chiptune, tocada duas vezes, com o "miau" no final.
+
+tempo 112
+compasso 2/4
+
+faixa melodia
+instrumento chiptune
+volume 80
+mf
+# A-ti-rei o pau no ga-to-to, mas o ga-to-to não mor-reu-reu-reu.
+|: G4:1/8 F4 E4 D4 | E4 F4 G4:1/4 | G4 G4 |
+A4:1/8 G4 F4:1/4 | F4 F4 |
+G4:1/8 F4 E4:1/4 | E4 E4 |
+# Do-na Chi-ca-ca ad-mi-rou-se-se do ber-ro, do ber-ro que o ga-to deu.
+C5:1/8 C5 A4:1/4 | A4 A4 |
+B4:1/8 A4 G4:1/4 | G4 G4 |
+E4:1/8 F4 G4:1/4 | E4:1/8 F4 G4:1/4 | F4:1/8 E4 D4:1/4 | C4:1/2 :|
+
+faixa miau
+instrumento sino
+volume 80
+# Espera as duas voltas (30 compassos de 2/4 = 15 semibreves) e mia.
+r:15 r:1/8 G5:1/8 C6:1/4
+
+faixa baixo
+instrumento baixo
+volume 70
+|: C2:1/4 G2 | C2 G2 | C2 G2 |
+G2 D2 | G2 D2 |
+C2 G2 | C2 G2 |
+F2 C3 | F2 C3 |
+G2 D2 | G2 D2 |
+C2 G2 | C2 G2 | G2 D2 | C2:1/2 :|
+
+faixa bateria
+instrumento bateria
+volume 70
+|: [bumbo chimbal]:1/8 chimbal [caixa chimbal] chimbal | [bumbo chimbal] chimbal [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal | [bumbo chimbal] chimbal [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal | [bumbo chimbal] chimbal [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal | [bumbo chimbal] chimbal [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal | [bumbo chimbal] chimbal [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal | [bumbo chimbal] chimbal [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal | caixa:1/16 caixa caixa caixa caixa:1/8 caixa |
+[bumbo prato]:1/4 r:1/4 :|

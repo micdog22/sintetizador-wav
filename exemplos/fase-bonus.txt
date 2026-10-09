@@ -1,0 +1,65 @@
+# Fase Bônus
+# Música original feita para este projeto, no estilo dos videogames de 8 bits.
+# Licença MIT, como o resto do repositório.
+#
+# Lá menor, progressão Am, F, C, G na parte A e F, G, Em, E na parte B.
+
+tempo 140
+compasso 4/4
+
+faixa melodia
+instrumento chiptune
+volume 75
+pan 5
+mf
+|: A4:1/8 C5 E5 A5 G5:1/4 E5 | F5:1/8 E5 C5:1/4 A4 C5 |
+   G4:1/8 C5 E5 G5 F5:1/4 E5:1/8 D5 | D5:1/4. B4:1/8 G4:1/2 :|
+f
+A4:1/8 A4 C5 A4 F5:1/4 E5 | D5:1/8 D5 G5 D5 B5:1/4 A5 |
+G5:1/8 E5 B4 E5 G5:1/4 B5 | B4:1/8 D5 E5 G#5 B5:1/2 |
+A4:1/8 C5 E5 A5 G5:1/4 E5 | F5:1/8 E5 C5:1/4 A4 C5 |
+G4:1/8 C5 E5 G5 F5:1/4 E5:1/8 D5 | B4:1/8 C5 D5 B4 A4:1/2 |
+[A4 C5 E5]:1 |
+
+# Arpejos em colcheias, mais baixos e à esquerda.
+faixa arpejo
+instrumento chiptune
+volume 40
+pan -45
+p
+|: A3:1/8 C4 E4 C4 A3 C4 E4 C4 | F3 A3 C4 A3 F3 A3 C4 A3 |
+   C4 E4 G4 E4 C4 E4 G4 E4 | G3 B3 D4 B3 G3 B3 D4 B3 :|
+F3 A3 C4 A3 F3 A3 C4 A3 | G3 B3 D4 B3 G3 B3 D4 B3 |
+E3 G3 B3 G3 E3 G3 B3 G3 | E3 G#3 B3 G#3 E3 G#3 B3 G#3 |
+A3 C4 E4 C4 A3 C4 E4 C4 | F3 A3 C4 A3 F3 A3 C4 A3 |
+C4 E4 G4 E4 C4 E4 G4 E4 | G3 B3 D4 B3 A3 C4 E4 C4 |
+[A3 C4 E4]:1 |
+
+# Baixo pulando de oitava, bem típico de chiptune.
+faixa baixo
+instrumento baixo
+volume 70
+|: A2:1/8 A3 A2 A3 A2 A3 A2 A3 | F2 F3 F2 F3 F2 F3 F2 F3 |
+   C2 C3 C2 C3 C2 C3 C2 C3 | G2 G3 G2 G3 G2 G3 G2 G3 :|
+F2 F3 F2 F3 F2 F3 F2 F3 | G2 G3 G2 G3 G2 G3 G2 G3 |
+E2 E3 E2 E3 E2 E3 E2 E3 | E2 E3 E2 E3 E2 E3 D3 B2 |
+A2 A3 A2 A3 A2 A3 A2 A3 | F2 F3 F2 F3 F2 F3 F2 F3 |
+C2 C3 C2 C3 C2 C3 C2 C3 | G2 G3 G2 G3 A2 A3 A2 A3 |
+A1:1 |
+
+faixa bateria
+instrumento bateria
+volume 75
+|: [bumbo chimbal]:1/8 chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+   [bumbo chimbal] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+   [bumbo chimbal] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+   [bumbo chimbal] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal_aberto :|
+[bumbo prato] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+caixa:1/16 caixa caixa caixa caixa caixa caixa caixa caixa:1/8 caixa caixa caixa |
+[bumbo prato]:1/8 chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal |
+[bumbo chimbal] chimbal [caixa chimbal] chimbal [bumbo chimbal] [bumbo chimbal] [caixa chimbal] chimbal_aberto |
+[bumbo prato]:1/4 r:1/2. |

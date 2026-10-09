@@ -1,0 +1,43 @@
+# Ode à Alegria
+# Ludwig van Beethoven, tema do último movimento da Sinfonia n.º 9 (1824).
+# Domínio público. Arranjo para flauta, órgão e baixo, em dó maior.
+#
+# Repare no compasso 12: o mi entra um tempo antes e fica ligado (~) ao
+# compasso seguinte. É a famosa síncope de Beethoven.
+
+tempo 108
+compasso 4/4
+
+faixa melodia
+instrumento flauta
+volume 85
+pan -15
+mf
+E4:1/4 E4 F4 G4 | G4 F4 E4 D4 | C4 C4 D4 E4 | E4:1/4. D4:1/8 D4:1/2 |
+E4:1/4 E4 F4 G4 | G4 F4 E4 D4 | C4 C4 D4 E4 | D4:1/4. C4:1/8 C4:1/2 |
+D4:1/4 D4 E4 C4 | D4 E4:1/8 F4 E4:1/4 C4 | D4 E4:1/8 F4 E4:1/4 D4 | C4 D4 G3 E4~ |
+f
+E4 E4 F4 G4 | G4 F4 E4 D4 | C4 C4 D4 E4 | D4:1/4. C4:1/8 C4:1/2 |
+
+faixa acordes
+instrumento orgao
+volume 55
+pan 20
+p
+[C3 E3 G3]:1 | [B2 D3 G3]:1 | [C3 E3 G3]:1 | [B2 D3 G3]:1 |
+[C3 E3 G3]:1 | [B2 D3 G3]:1 | [C3 E3 G3]:1 | [B2 D3 G3]:1/2 [C3 E3 G3]:1/2 |
+[B2 D3 G3]:1/2 [C3 E3 G3]:1/2 | [B2 D3 G3]:1/2 [C3 E3 G3]:1/2 | [B2 D3 G3]:1/2 [B2 F3 G3]:1/2 |
+[C3 E3 G3]:1/2 [B2 F3 G3]:1/2 |
+mp
+[C3 E3 G3]:1 | [B2 D3 G3]:1 | [C3 E3 G3]:1 | [B2 D3 G3]:1/2 [C3 E3 G3]:1/2 |
+[C3 E3 G3]:1 |
+
+faixa baixo
+instrumento baixo
+volume 70
+mf
+C2:1/2 G2 | G2 D2 | C2 G2 | G2 D2 |
+C2 G2 | G2 D2 | C2 G2 | G2 C2 |
+G2 C2 | G2 C2 | G2 G2 | C2 G2 |
+C2 G2 | G2 D2 | C2 G2 | G2 C2 |
+C2:1 |

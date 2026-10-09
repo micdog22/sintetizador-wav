@@ -1,0 +1,61 @@
+# Ciranda, Cirandinha
+# Cantiga de roda tradicional brasileira. Domínio público.
+#
+# Compasso 2/4 com anacruse: a melodia começa na última colcheia de um
+# compasso incompleto. O acompanhamento é igual nas três estrofes: as duas
+# primeiras ficam entre sinais de repetição e a terceira vem escrita.
+
+tempo 104
+compasso 2/4
+
+faixa melodia
+instrumento flauta
+volume 85
+mf
+# Ciranda, cirandinha, vamos todos cirandar...
+C4:1/8 | F4 F4 A4 A4 | C5:1/4 C5 | Bb4:1/8 A4 G4 C5 | A4 G4 F4:1/4 |
+A4:1/8 C5 Bb4 A4 | G4 F4 E4 C4 | Bb4 G4 A4 F4 | G4 E4 F4 C4 |
+# O anel que tu me destes era vidro e se quebrou...
+F4 F4 A4 A4 | C5:1/4 C5 | Bb4:1/8 A4 G4 C5 | A4 G4 F4:1/4 |
+A4:1/8 C5 Bb4 A4 | G4 F4 E4 C4 | Bb4 G4 A4 F4 | G4 E4 F4 C4 |
+# Por isso, dona Rosa, entre dentro desta roda...
+f
+F4 F4 A4 A4 | C5:1/4 C5 | Bb4:1/8 A4 G4 C5 | A4 G4 F4:1/4 |
+A4:1/8 C5 Bb4 A4 | G4 F4 E4 C4 | Bb4 G4 A4 F4 | G4 E4 F4:1/4 |
+
+faixa baixo
+instrumento baixo
+volume 65
+mp
+r:1/8 |
+|: F2:1/4 C3 | F2 C3 | C2 G2 | F2 C3 | F2 C3 | C2 G2 | C2 F2 | C2 F2 :|
+F2 C3 | F2 C3 | C2 G2 | F2 C3 | F2 C3 | C2 G2 | C2 F2 | C2 F2 |
+
+# Acordes no contratempo, como numa roda de violão.
+faixa violao
+instrumento piano
+volume 50
+pan 25
+p
+r:1/8 |
+|: r:1/8 [A3 C4 F4]:1/8 r:1/8 [A3 C4 F4]:1/8 | r:1/8 [A3 C4 F4]:1/8 r:1/8 [A3 C4 F4]:1/8 |
+r:1/8 [G3 Bb3 E4]:1/8 r:1/8 [G3 Bb3 E4]:1/8 | r:1/8 [A3 C4 F4]:1/8 r:1/8 [A3 C4 F4]:1/8 |
+r:1/8 [A3 C4 F4]:1/8 r:1/8 [A3 C4 F4]:1/8 | r:1/8 [G3 Bb3 E4]:1/8 r:1/8 [G3 Bb3 E4]:1/8 |
+r:1/8 [G3 Bb3 E4]:1/8 r:1/8 [A3 C4 F4]:1/8 | r:1/8 [G3 Bb3 E4]:1/8 r:1/8 [A3 C4 F4]:1/8 :|
+mp
+r:1/8 [A3 C4 F4]:1/8 r:1/8 [A3 C4 F4]:1/8 | r:1/8 [A3 C4 F4]:1/8 r:1/8 [A3 C4 F4]:1/8 |
+r:1/8 [G3 Bb3 E4]:1/8 r:1/8 [G3 Bb3 E4]:1/8 | r:1/8 [A3 C4 F4]:1/8 r:1/8 [A3 C4 F4]:1/8 |
+r:1/8 [A3 C4 F4]:1/8 r:1/8 [A3 C4 F4]:1/8 | r:1/8 [G3 Bb3 E4]:1/8 r:1/8 [G3 Bb3 E4]:1/8 |
+r:1/8 [G3 Bb3 E4]:1/8 r:1/8 [A3 C4 F4]:1/8 | r:1/8 [G3 Bb3 E4]:1/8 r:1/8 [A3 C4 F4]:1/8 |
+
+faixa percussao
+instrumento bateria
+volume 45
+pan -10
+r:1/8 |
+|: bumbo:1/8 chimbal bumbo chimbal | bumbo chimbal bumbo chimbal | bumbo chimbal bumbo chimbal |
+bumbo chimbal bumbo chimbal | bumbo chimbal bumbo chimbal | bumbo chimbal bumbo chimbal |
+bumbo chimbal bumbo chimbal | bumbo chimbal [bumbo caixa] chimbal :|
+bumbo chimbal bumbo chimbal | bumbo chimbal bumbo chimbal | bumbo chimbal bumbo chimbal |
+bumbo chimbal bumbo chimbal | bumbo chimbal bumbo chimbal | bumbo chimbal bumbo chimbal |
+bumbo chimbal bumbo chimbal | [bumbo prato]:1/4 r:1/4 |

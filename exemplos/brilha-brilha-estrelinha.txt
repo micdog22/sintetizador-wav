@@ -1,0 +1,30 @@
+# Brilha, Brilha, Estrelinha
+# Melodia tradicional francesa ("Ah! vous dirai-je, maman", século XVIII).
+# Domínio público.
+#
+# Escrita com os nomes do solfejo: dó, ré, mi, fá, sol, lá e si, com ou sem
+# acento. O trecho do meio aparece duas vezes, então usa sinais de repetição.
+
+tempo 100
+compasso 4/4
+
+faixa caixinha
+instrumento sino
+volume 85
+pan 10
+mf
+dó5:1/4 dó5 sol5 sol5 | lá5 lá5 sol5:1/2 | fá5:1/4 fá5 mi5 mi5 | ré5 ré5 dó5:1/2 |
+|: sol5:1/4 sol5 fá5 fá5 | mi5 mi5 ré5:1/2 :|
+dó5:1/4 dó5 sol5 sol5 | lá5 lá5 sol5:1/2 | fá5:1/4 fá5 mi5 mi5 | ré5 ré5 dó5:1/2 |
+
+# Acompanhamento em baixo de Alberti: tônica, quinta, terça, quinta.
+faixa piano
+instrumento piano
+volume 55
+pan -20
+p
+dó3:1/8 sol3 mi3 sol3 dó3 sol3 mi3 sol3 | fá3 dó4 lá3 dó4 dó3 sol3 mi3 sol3 |
+fá3 dó4 lá3 dó4 dó3 sol3 mi3 sol3 | sol2 ré3 si2 ré3 dó3:1/2 |
+|: dó3:1/8 sol3 mi3 sol3 fá3 dó4 lá3 dó4 | dó3 sol3 mi3 sol3 sol2 ré3 si2 ré3 :|
+dó3 sol3 mi3 sol3 dó3 sol3 mi3 sol3 | fá3 dó4 lá3 dó4 dó3 sol3 mi3 sol3 |
+fá3 dó4 lá3 dó4 dó3 sol3 mi3 sol3 | sol2 ré3 si2 ré3 [dó3 mi3 sol3 dó4]:1/2 |
